@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.studentList {
+  color: rgb(82, 35, 16);
+  background-color: hotpink;
+  width: 200px;
+}

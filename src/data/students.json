@@ -1,0 +1,7 @@
+{
+  "students": [
+    { "id": 1, "firstname": "Rune", "lastname": "Panda", "isPresent": false, "groupId": null },
+    { "id": 2, "firstname": "Timmy", "lastname": "Tiger", "isPresent": true, "groupId": null },
+    { "id": 3, "firstname": "Leo", "lastname": "Lion", "isPresent": true, "groupId": null }
+  ]
+}

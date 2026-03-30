@@ -1,0 +1,11 @@
+.person {
+  color: blue;
+}
+
+.absent {
+  color: red;
+}
+
+h1 {
+  border: 5px solid rgb(165, 212, 252);
+}
